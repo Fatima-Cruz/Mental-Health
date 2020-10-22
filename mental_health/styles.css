@@ -100,4 +100,14 @@ background: #006a71;
     border-radius: 25px;
      background-attachment: fixed;   
  }
+
+#footer {
+    background: white;
+    color: #F46969;
+    padding: 7px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+}
  
