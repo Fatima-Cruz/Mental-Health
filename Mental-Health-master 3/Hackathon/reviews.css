@@ -99,3 +99,22 @@ body{
    width: 100px;
    height: 100px;
 }
+
+/* Footer */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+
+#footer {
+    background: white;
+    color: #F46969;
+    padding: 7px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    margin-top: 30px;
+    position:absolute;
+  }

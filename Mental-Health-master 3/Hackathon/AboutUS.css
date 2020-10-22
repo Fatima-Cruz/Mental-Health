@@ -101,3 +101,14 @@ background: #006a71;
      background-attachment: fixed;   
  }
  
+/* Footer */
+
+#footer {
+  background: white;
+  color: #F46969;
+  padding: 7px;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  margin-top: 30px;
+}
